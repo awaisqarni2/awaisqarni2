@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @awaisqarni2
+- 👋 Hi, I’m @awaisqarni -> https://awaisqarni2.netlify.app/
 - 👀 I’m interested in Web Development & Problem Solving
 - 🌱 I’m currently learning Full Stack WEB Development
 - 💞️ I’m looking to collaborate on Web Projects
